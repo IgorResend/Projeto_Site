@@ -1,0 +1,34 @@
+/* Todos os imports tem de ser colocados no inicio o CSS */
+@import url('https://fonts.googleapis.com/css2?family=Honk&family=Zain:wght@200;300;400;700;800;900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Honk&family=Nabla&family=Zain:wght@200;300;400;700;800;900&display=swap');
+
+
+
+
+body{
+    background-color: blueviolet;
+}
+
+.dablio{
+    width: 100px;
+}
+.grande{
+    width: 100px;
+}
+/* Classe para configuração da fonte */
+.font{
+    color: rgb(255, 255, 255);
+    font-size: 16px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.font2{
+    color: rgb(255, 0, 170);
+    font-size: 16px;
+    font-family: "Honk", system-ui;
+}
+.font3{
+    color: rgb(0, 255, 255);
+    font-size: 16px;
+    font-family: "Nabla", system-ui
+}
+
